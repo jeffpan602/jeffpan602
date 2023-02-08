@@ -3,9 +3,9 @@ Hi 👋 My name is Jeffrey Pan
 I am a third-year student majoring in computer science, concentrating in software engineering, at Case Western Reserve University. I'm greatly interested in the many fields of computer science, including full stack web development, data science, and AI/ML.
 
 * 🌍  I'm from Boston, MA and am currently based in Cleveland, OH
-* ✉️  You can contact me at [jxp850@case.edu](mailto:jxp850@case.edu ) or [jeffpan602@gmail.com](mailto:jeffpan602@gmail.com)
+* 📫  You can contact me at [jxp850@case.edu](mailto:jxp850@case.edu ) or [jeffpan602@gmail.com](mailto:jeffpan602@gmail.com)
 * 🧠  I'm learning more about backend technologies such as decentralized data servers/storage
-* 🔭  I’m currently working on some personal and academic full stack projects and am in team project for Progressive Insurance as well
+* 🚀  I’m currently working on some personal and academic full stack projects and am in team project for Progressive Insurance as well
 
 ### Skills
 
