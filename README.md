@@ -5,7 +5,7 @@ I am a third-year student majoring in computer science, concentrating in softwar
 * 🌍  I'm from Boston, MA and am currently based in Cleveland, OH
 * 📫  You can contact me at [jxp850@case.edu](mailto:jxp850@case.edu ) or [jeffpan602@gmail.com](mailto:jeffpan602@gmail.com)
 * 🧠  I'm learning more about backend technologies such as decentralized data servers/storage
-* 🚀  I’m currently working on some personal and academic full stack projects and am in team project for Progressive Insurance as well
+* 🚀  I’m currently working on some personal/academic full stack projects and am on team project for Progressive Insurance as well
 
 ### Skills
 
