@@ -36,4 +36,4 @@ I am a third-year student majoring in computer science, concentrating in softwar
 
 <b>My GitHub Stats</b>
 
-![Jeffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffpan602&show_icons=true&bg_color=00000000&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpan602&layout=compact&langs_count=10&hide=jupyter%20notebook )
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffpan602&layout=compact&langs_count=10&hide=jupyter%20notebook )
