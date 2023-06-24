@@ -5,7 +5,7 @@ I am a third-year student majoring in computer science, concentrating in softwar
 * 🌍  I'm from Boston, MA and am currently studying at CWRU in Cleveland, OH
 * 📫  You can contact me at [jxp850@case.edu](mailto:jxp850@case.edu ) or [jeffpan602@gmail.com](mailto:jeffpan602@gmail.com)
 * 🧠  I'm learning more about TypeScript
-* 🚀  I’m currently working on some personal and academic full stack projects 
+* 🚀  I’m currently working on some personal projects and interning as a SWE over the summer
 
 ### Skills
 
