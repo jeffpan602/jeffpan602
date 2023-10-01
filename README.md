@@ -1,6 +1,6 @@
 Hi 👋 My name is Jeffrey Pan
 ============================
-I am a third-year student majoring in computer science, concentrating in software engineering, at Case Western Reserve University. I'm greatly interested in the many fields of computer science, including full stack web development, data science, and AI/ML.
+I an undergraduate student majoring in computer science with concentration in software engineering at Case Western Reserve University. I'm greatly interested in the many fields of computer science, including full stack web development, data science, and AI/ML.
 
 * 🌍  I'm from Boston, MA and am currently studying at CWRU in Cleveland, OH
 * 📫  You can contact me at [jxp850@case.edu](mailto:jxp850@case.edu ) or [jeffpan602@gmail.com](mailto:jeffpan602@gmail.com)
